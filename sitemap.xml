@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://emudeck.github.io/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/about/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/about/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/cheat-sheet-beta/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/cheat-sheet-beta/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/cheat-sheet/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/cheat-sheet/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/how-to-contribute/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/how-to-contribute/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/community-creations/steamos/community-creations/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/community-creations/steamos/community-creations/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/community-creations/steamos/community-game-configurations/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/community-creations/steamos/community-game-configurations/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/community-creations/steamos/third-party-emulation/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/community-creations/steamos/third-party-emulation/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/community-creations/steamos/tools-and-guides/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/community-creations/steamos/tools-and-guides/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/community-creations/windows/community-creations/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/community-creations/windows/community-creations/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/controls-and-hotkeys/steamos/controls-101/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/controls-and-hotkeys/steamos/controls-101/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/controls-and-hotkeys/steamos/external-controllers/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/controls-and-hotkeys/steamos/external-controllers/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/controls-and-hotkeys/steamos/hotkeys/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/controls-and-hotkeys/steamos/hotkeys/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/controls-and-hotkeys/windows/controls-101/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/controls-and-hotkeys/windows/controls-101/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/controls-and-hotkeys/windows/hotkeys/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/controls-and-hotkeys/windows/hotkeys/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emudeck-application/steamos/cloud-saves/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emudeck-application/steamos/cloud-saves/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emudeck-application/steamos/cloud-sync-on-steamos/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emudeck-application/steamos/cloud-sync-on-steamos/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emudeck-application/steamos/emudeck-application-101/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emudeck-application/steamos/emudeck-application-101/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emudeck-application/steamos/emudeck-store/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emudeck-application/steamos/emudeck-store/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emudeck-application/windows/cloud-saves/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emudeck-application/windows/cloud-saves/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emudeck-application/windows/cloud-sync-on-windows/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emudeck-application/windows/cloud-sync-on-windows/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emudeck-application/windows/emudeck-application-101/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emudeck-application/windows/emudeck-application-101/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emudeck-maintenance/steamos/updating/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emudeck-maintenance/steamos/updating/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emudeck-maintenance/windows/updating/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emudeck-maintenance/windows/updating/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emudeck-plugins/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emudeck-plugins/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emudeck-plugins/deckycontrols/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emudeck-plugins/deckycontrols/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emudeck-plugins/emuchievements/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emudeck-plugins/emuchievements/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emudeck-plugins/metadeck/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emudeck-plugins/metadeck/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emulators/steamos/ares/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emulators/steamos/ares/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emulators/steamos/bigpemu/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emulators/steamos/bigpemu/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emulators/steamos/citra/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emulators/steamos/citra/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emulators/steamos/dolphin/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emulators/steamos/dolphin/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emulators/steamos/duckstation/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emulators/steamos/duckstation/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emulators/steamos/flycast/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emulators/steamos/flycast/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emulators/steamos/mame/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emulators/steamos/mame/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emulators/steamos/melonds/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emulators/steamos/melonds/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emulators/steamos/mgba/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emulators/steamos/mgba/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emulators/steamos/pcsx2/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emulators/steamos/pcsx2/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emulators/steamos/ppsspp/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emulators/steamos/ppsspp/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emulators/steamos/primehack/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emulators/steamos/primehack/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emulators/steamos/retroarch/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emulators/steamos/retroarch/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emulators/steamos/rmg/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emulators/steamos/rmg/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emulators/steamos/rpcs3/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emulators/steamos/rpcs3/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emulators/steamos/ryujinx/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emulators/steamos/ryujinx/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emulators/steamos/scummvm/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emulators/steamos/scummvm/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emulators/steamos/supported-emulators/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emulators/steamos/supported-emulators/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emulators/steamos/vita3k/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emulators/steamos/vita3k/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emulators/steamos/xemu/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emulators/steamos/xemu/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emulators/steamos/xenia/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emulators/steamos/xenia/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emulators/steamos/yuzu/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emulators/steamos/yuzu/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emulators/steamos/cemu/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emulators/steamos/cemu/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emulators/steamos/cemu/cemu-native/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emulators/steamos/cemu/cemu-native/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emulators/steamos/cemu/cemu-proton/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emulators/steamos/cemu/cemu-proton/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emulators/windows/cemu/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emulators/windows/cemu/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emulators/windows/citra/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emulators/windows/citra/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emulators/windows/dolphin/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emulators/windows/dolphin/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emulators/windows/duckstation/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emulators/windows/duckstation/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emulators/windows/melonds/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emulators/windows/melonds/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emulators/windows/pcsx2/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emulators/windows/pcsx2/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emulators/windows/ppsspp/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emulators/windows/ppsspp/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emulators/windows/retroarch/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emulators/windows/retroarch/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emulators/windows/rpcs3/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emulators/windows/rpcs3/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emulators/windows/ryujinx/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emulators/windows/ryujinx/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emulators/windows/supported-emulators/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emulators/windows/supported-emulators/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/emulators/windows/yuzu/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/emulators/windows/yuzu/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/file-management/steamos/file-management/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/file-management/steamos/file-management/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/file-management/windows/file-management/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/file-management/windows/file-management/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/frequently-asked-questions/linux/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/frequently-asked-questions/linux/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/frequently-asked-questions/steamos/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/frequently-asked-questions/steamos/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/frequently-asked-questions/windows/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/frequently-asked-questions/windows/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/how-to-install-emudeck/linux/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/how-to-install-emudeck/linux/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/how-to-install-emudeck/steamos/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/how-to-install-emudeck/steamos/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/how-to-install-emudeck/windows/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/how-to-install-emudeck/windows/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/known-issues/linux/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/known-issues/linux/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/known-issues/steamos/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/known-issues/steamos/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/known-issues/windows/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/known-issues/windows/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/save-management/steamos/save-management/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/save-management/steamos/save-management/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/save-management/windows/save-management/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/save-management/windows/save-management/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/tools/steamos/cloud-services/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/tools/steamos/cloud-services/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/tools/steamos/emulationstation-de/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/tools/steamos/emulationstation-de/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/tools/steamos/steam-rom-manager/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/tools/steamos/steam-rom-manager/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/tools/windows/emulationstation-de/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/tools/windows/emulationstation-de/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/tools/windows/steam-rom-manager/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/tools/windows/steam-rom-manager/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/troubleshooting/linux/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/troubleshooting/linux/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/troubleshooting/steamos/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/troubleshooting/steamos/"/>
+    </url>
+    <url>
+        <loc>https://emudeck.github.io/troubleshooting/windows/</loc>
+        <lastmod>2024-01-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://emudeck.github.io/troubleshooting/windows/"/>
+    </url>
+</urlset>
